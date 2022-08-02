@@ -346,4 +346,4 @@ async def f2pv(ctx):
 
 
 
-bot.run(os.environ["TOKEN"])
+bot.run(os.environ[TOKEN])
