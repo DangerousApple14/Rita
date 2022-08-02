@@ -1,1 +1,1 @@
-worker: python RitaSenpai.py
+web: python RitaSenpai.py
